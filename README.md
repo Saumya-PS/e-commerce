@@ -56,3 +56,5 @@ Frontend opens at `http://localhost:3000`.
 | GET    | /api/orders/all                 | admin       | view every user's orders   |
 
 
+## Deployed Link
+https://e-commerce-frontend-ysia.onrender.com

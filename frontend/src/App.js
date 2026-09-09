@@ -16,7 +16,7 @@ import AdminDashboard from "./components/AdminDashboard";
 // - sets up all the page routes
 function App() {
   const [token, setToken] = useState(localStorage.getItem("token") || "");
-  const [name, setName] = useState(localStorage.getItem("name") || "");
+  const [,setName] = useState(localStorage.getItem("name") || "");
   const [isAdmin, setIsAdmin] = useState(localStorage.getItem("isAdmin") === "true");
   const [cart, setCart] = useState([]);
 
