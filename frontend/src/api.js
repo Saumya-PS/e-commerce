@@ -8,4 +8,4 @@
 // After deploying, replace it with your Render backend URL, e.g:
 // export const API_URL = "https://my-ecommerce-backend.onrender.com";
 
-export const API_URL = "http://localhost:5000";
+export const API_URL = "https://e-commerce-oxxb.onrender.com" ;
